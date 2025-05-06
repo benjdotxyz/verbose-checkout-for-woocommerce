@@ -12,7 +12,7 @@
  *
  * Copyright: (c) 2025 Benjamin Green
  *
- * License: GNU General Public License v2.0 (or later)
+ * License: GNU General Public License v2.0
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  *
  * @package   Verbose-Checkout-for-WC
